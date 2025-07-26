@@ -44,7 +44,7 @@ Uses a curated CSV (`Disease, Symptoms, Ayurvedic Treatment.csv`) to provide fas
 
 ## 🚀 Live Project
 
-[Visit AyurvediCure →](https://ayurvedi-cure-git-main-mukund-thakurs-projects.vercel.app/)
+[Visit AyurvediCure →](https://ayurvedi-cure.vercel.app/)
 
 
 
