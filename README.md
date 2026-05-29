@@ -174,7 +174,7 @@ View the [LICENSE](./LICENSE) file for full terms.
 
 ## 📬 Contact
 
-👨‍💻 Built by [Mukund Thakur](https://github.com/Mukund934)
+👨‍💻 Build by our team
 📩 Email: `mukund.th04@gmail.com`
 🔗 GitHub: [github.com/Mukund934](https://github.com/Mukund934)
 
